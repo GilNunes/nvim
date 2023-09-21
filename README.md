@@ -1,13 +1,3 @@
 # 💤 LazyVim
 
-
-Vim insights
-
-vim surround
-
-surround line - yss)
-surround word - ysiw)
-replace surround - cs'"
-
-replace all ocurrences - %s/ocurrence/replacement
-
+A starter template for [LazyVim](https://github.com/LazyVim/LazyVim). Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
